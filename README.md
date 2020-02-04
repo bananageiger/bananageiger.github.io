@@ -1,6 +1,10 @@
-# Dev Landing Page
+# Kickstarter campaign Landing Page
 
-Minimal landing page for developers.
+Minimal pre-kickstarter campaign landing page.
 
-Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
+# Landing page Essentials
 
+title
+Description
+Call to action
+Subscribe button
